@@ -1,1 +1,3 @@
-# digital-reality-minecraft-plugin
+# Digital Reality Minecraft Plugin
+
+This is gonna be an awesome minecraft plugin
